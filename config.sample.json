@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Github",
+        "stage": "Production",
+        "url": "https://github.com"
+    },
+    {
+        "name": "Broken Website",
+        "stage": "Production",
+        "url": "https://surely-this-domain-does-not-exist-123.com"
+    },
+    {
+        "name": "Google Staging",
+        "stage": "Staging",
+        "url": "https://google.com"
+    }
+]
